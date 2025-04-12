@@ -1,10 +1,14 @@
-Hi!
+👋 Oi!
 
-📊 **Data Analyst** | Transforming numbers into insights  
-🔍 Currently learning **Python for Data Science & Advanced SQL**  
-📈 Passionate about **BI, Visualization & Predictive Analytics**  
-🤝 Open to collaborate on **data-driven projects**  
-✨ Fun fact: I love coffee ☕ and data puzzles! 
+💻 Estudante de Análise e Desenvolvimento de Sistemas | Explorando o mundo da tecnologia
+
+🔍 Iniciando minha jornada em programação e desenvolvimento de software
+
+🚀 Apaixonada por aprender e crescer na área de tecnologia
+
+🤝 Aberta a colaborar e aprender com projetos e comunidades
+
+✨ Curiosidade: adoro café ☕ e desafios que me façam pensar!
 
 
 <!---
