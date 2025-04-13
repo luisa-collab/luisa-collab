@@ -1,3 +1,8 @@
+## Sejam Bem-Vindos ao Meu Enigmático Mundo!
+
+![gif minions](https://i.gifer.com/ANLr.gif)
+
+
 👋 Oi!
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas | Explorando o mundo da tecnologia
