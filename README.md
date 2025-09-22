@@ -1,7 +1,7 @@
 **_LUISA LAURA_**
 <div align="center">
 
-<img src="imagens/Teal Modern Business Consultant Business Card (1).png" width="780" alt="Meu Cartoon" />
+<img src="imagens/cartoon.png" width="780" alt="Meu Cartoon" />
 
 </div>
 
