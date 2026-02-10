@@ -10,14 +10,16 @@
 </div>
 
 ---
-![Java, Spring, C, MySQL, Linux, Docker, AWS, GitHub](https://skillicons.dev/icons?i=java,spring,c,mysql,linux,docker,aws,github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,c,mysql,linux,docker,aws,github" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-🛡️-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quantum_Computing-⚛️-blueviolet?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws" />
-</div>
+</p>
 
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
@@ -30,10 +32,11 @@
 ---
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisa-collab&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisa-collab&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisa-collab&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisa-collab&layout=compact&theme=radical" />
+</p>
 
 
 <div align="center">
