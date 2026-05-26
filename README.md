@@ -21,10 +21,9 @@
   <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws" />
 </p>
 
-
+- 👨‍💻 Analista Field - **Suporte Técnico**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- ☕ Focada em dominar o ecossistema **Java** e arquiteturas escaláveis.
-- 🛡️ Entusiasta de **Segurança da Informação** (Ethical Hacking e Defesa).
+- 🛡️ Aprofundando em **Redes**.
 - ⚛️ Pesquisando os fundamentos da **Computação Quântica** e como ela impactará a criptografia atual.
 - 🤝 Voluntária dedicada e entusiasta de projetos que geram impacto social.
 
@@ -49,6 +48,4 @@
 </div>
 
 ---
-<p align="center">
-  Projetos em destaque: <b>Sentinel Core</b> | <b>BioPass</b> | <b>Phishing Detector</b>
-</p>
+
