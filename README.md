@@ -1,11 +1,11 @@
 # Luisa Laura
 
-## Future Software Developer | Java Enthusiast | Cybersecurity & Quantum Computing Explorer
+## Suporte TI | Java Enthusiast | Redes & Quantum Computing Explorer
 
 <div align="center">
   <img src="imagens/cartoonMeu.png" width="250" alt="Luisa Laura Cartoon" />
   <p align="center">
-    <i>"Transformando lógica em soluções e bytes em inovação."</i>
+    <i>"Redes são a espinha dorsal de tudo que você usa sem perceber."</i>
   </p>
 </div>
 
